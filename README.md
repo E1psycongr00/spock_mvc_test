@@ -1,7 +1,8 @@
 # spock_mvc_test
 spock를 활용해 Spring Application의 Controller, Service, Repository를 테스트하는 예제<p></p>
 회원가입, 회원 조회 API에 대해서 간단한 테스트 예제를 작성 <p></p>
-입력에 대해 몇가지 유효성이 적용되어 있고 간단한 예외 핸들링이 구현되어 있음
+입력에 대해 몇가지 유효성이 적용되어 있고 간단한 예외 핸들링이 구현되어 있음 <p></p>
+Asciidocs와 Spring RestDocs를 활용한 API 문서 예제 작성
 
 # Entity 구조
 
