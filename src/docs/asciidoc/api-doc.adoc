@@ -1,0 +1,37 @@
+= REST API
+:toc: left
+:toclevels: 2
+:source-highlighter: highlightjs
+
+== 1. 개요
+
+== 2. 인증
+
+== 3. 멤버
+
+=== 3-1. 멤버 회원가입
+
+include::{snippets}/member-post/httpie-request.adoc[]
+===== Request Example
+include::{snippets}/member-post/http-request.adoc[]
+
+
+===== Response Field
+include::{snippets}/member-post/response-fields.adoc[]
+
+===== Response
+include::{snippets}/member-post/response-body.adoc[]
+
+===== Response Example
+include::{snippets}/member-post/http-response.adoc[]
+
+=== 3-2 멤버 찾기
+==== Request Example
+include::{snippets}/member-find/http-request.adoc[]
+
+==== Response Example
+include::{snippets}/member-find/http-response.adoc[]
+
+==== Path Parameters
+include::{snippets}/member-find/path-parameters.adoc[]
+

@@ -36,8 +36,4 @@ public class OrderEntity {
     private LocalDateTime startAt;
 
 
-
-
-
-
 }
